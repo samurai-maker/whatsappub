@@ -8,20 +8,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Afx-Abu/abu-md-md.git"
+    "url": "https://github.com/samurai-maker/whatsappub.git"
   },
-  "keywords": [
-    "whatsapp",
-    "bot",
-    "multi-device"
-  ],
-  "author": "Jsl",
-  "developer": "@Afx-Abu",
-  "license": "GPL-3.0-or-later",
-  "bugs": {
-    "url": "https://github.com/Afx-Abu/abu-md/issues"
-  },
-  "homepage": "https://github.com/Afx-Abu/abu-md#readme",
   "dependencies": {
     "@adiwajshing/baileys": "4.1.0",
     "@adiwajshing/keyed-db":"0.2.4",
