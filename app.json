@@ -5,7 +5,7 @@
 		"whatsapp",
 		"bot"
 	],
-	"repository": "https://github.com/Afx-Abu/abu-md",
+	"repository": "https://github.com/samurai-maker/whatsappub",
 	"stack": "container",
     "env": { 
         "HANDLERS": {
